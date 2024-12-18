@@ -1,0 +1,12 @@
+
+************************* Relax and take Notes ***************************
+
+1-les mehtodes static et non static. ex: static(without object instance) and no static(we use it with an object instance)
+
+2-  remarque pour supprimer un tricount ( tricount/delete/123) faut check dans 3 étapes:
+	
+    * logué ? get_user_or_redirect()
+    * role ? 
+    * autorisé à faire ce que je faire ?
+   
+    
